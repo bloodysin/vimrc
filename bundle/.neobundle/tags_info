@@ -1,5 +1,7 @@
 YouCompleteMe
 neobundle.vim
 nerdtree
+sparkup
+syntastic
 taglist.vim
 vim-easy-align
