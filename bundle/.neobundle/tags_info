@@ -1,7 +1,9 @@
 YouCompleteMe
+ctrlp.vim
 neobundle.vim
 nerdtree
 sparkup
 syntastic
 taglist.vim
 vim-easy-align
+vim-indent-guides
